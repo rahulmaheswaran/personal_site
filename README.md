@@ -1,1 +1,1 @@
-source code for website in the making
+source code for personal website (in progress)
